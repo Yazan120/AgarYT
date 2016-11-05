@@ -1,6 +1,7 @@
 @echo off
 npm install
-echo.
+echo. Make sure you have all files
+npm
 echo.
 echo Successfully installed all dependecies!
 echo Please don't touch folder "node-modules".
